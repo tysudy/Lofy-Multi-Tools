@@ -1,0 +1,14 @@
+{
+    "token_bot": "",
+    "token_conta": "",
+    "prefixo": "!",
+    "Nuker":{
+        "id":""
+    },
+    "Self_Div": {
+        "tempo": "10"
+    },
+    "Cleaner": {
+        "gatilho": ""
+    }
+}
